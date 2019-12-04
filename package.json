@@ -3,5 +3,16 @@
   "version": "0.0.2",
   "main": "index.js",
   "author": "yuri <yuu2lee4@qq.com>",
+  "description": "微信小程序检测手机握持稳定性",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuu2lee4/wx-stabilitycheck.git"
+  },
+  "homepage": "https://github.com/yuu2lee4/wx-stabilitycheck",
+  "keywords": [
+    "wx",
+    "weapp",
+    "stabilitycheck"
+  ],
   "license": "ISC"
 }
